@@ -2,6 +2,7 @@
 **Image Enhancement and Editing Tool** is a desktop application used to *manipulate, enhance, and transform images*. It provide the user with the feature to edit an image and to enhance the image quality.
 
 There are two basic module in our project:-
+
 1. Image Enhancement
 2. Image Editing
 
